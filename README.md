@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bmrocamora
+- 👀 I’m interested in Robotics, Motion Planning, Artificial Intelligence and UAVs
+- 🌱 I’m currently learning Deep Learning and Convex Optimization
+- 💞️ I’m looking to collaborate on any open-source projects related to motion planning
+- 📫 How to reach me: bernardo.rocamora@gmail.com
