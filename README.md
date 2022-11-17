@@ -3,4 +3,4 @@
 - 🧠 I’m currently learning Deep Learning and Convex Optimization
 - 🤝 I’m looking to collaborate on any open-source projects related to motion planning
 - 📫 How to reach me: bernardo.rocamora@gmail.com
-- 🤖 See more at: [bitbucket.com/farolab](https://bitbucket.org/wvufarolab/)
+- 🤖 See more at: https://bitbucket.org/wvufarolab/
